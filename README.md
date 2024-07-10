@@ -1,1 +1,1 @@
-# Brain_Tumor_Detection
+Developed using MATLAB, this Brain Tumor Detector processes medical images to identify and highlight tumor regions. Utilizing advanced image processing techniques, the tool provides accurate and efficient detection, aiding in early diagnosis and treatment planning. Its user-friendly interface ensures accessibility for medical professionals.
